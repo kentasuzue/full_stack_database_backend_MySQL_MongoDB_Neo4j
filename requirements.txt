@@ -1,0 +1,7 @@
+dash
+flask
+sqlalchemy
+pymongo
+neo4j
+pymysql
+requests
